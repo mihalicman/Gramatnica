@@ -142,7 +142,7 @@
                 <div class="container vl">
                     <!-- <a href="#"> -->
                         <div class="title hl">
-                            <h1>Re-<span>Books</span></h1>
+                            <h1>E-<span>Grāmatnīca</span></h1>
                         </div>
                     <!-- </a> -->
                     <a href="#" onclick="books()">

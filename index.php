@@ -100,7 +100,7 @@
     <link rel="stylesheet" href="./assets/css/index.css">
     <link href="http://fonts.cdnfonts.com/css/roboto" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
-    <title>Re-Books</title>
+    <title>E-Grāmatnīca</title>
 </head>
 <body>
 

@@ -1,7 +1,7 @@
 <nav class="nav-bar-wrapper">
     <div class="nav-bar">
         <ul>
-            <h2 class="logo"><a href="index.php">Re-<span>Books</span></a></h2>
+            <h2 class="logo"><a href="index.php">E-<span>Grāmatnīca</span></a></h2>
             <!-- <li class="log-reg-panel"><a href="#">Ienākt</a></li> -->
             <li class="log-reg-panel">
 					<?php
